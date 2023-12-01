@@ -10,6 +10,9 @@ export default function Maintenance() {
                 <h1 className="font-bold text-2xl">Le site est actuellement en maintenance.</h1>
                 <p className="mt-2">Nous travaillons activement pour améliorer votre expérience. Merci de revenir plus tard.</p>
             </div>
+            <div className="flex justify-center mt-20">
+                <h1 className="font-bold text-xl">Réouverture le 04/12/2023</h1>
+            </div>
         </div>
     )
 }
